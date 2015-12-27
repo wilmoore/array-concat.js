@@ -27,6 +27,7 @@
     "copy",
     "pointfree",
     "point-free",
+    "R.concat",
     "shallow"
   ],
   "license": "MIT",
